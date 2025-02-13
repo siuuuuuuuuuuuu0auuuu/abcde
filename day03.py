@@ -24,3 +24,4 @@ while True:
     elif menu == '7':
         print(f'다음에 또 오세요')
         break
+        #dd
